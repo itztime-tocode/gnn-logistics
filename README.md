@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GNN Logistics Engine | Next-Generation Freight Portal
 
-## Getting Started
+An enterprise-grade, high-capacity logistical management landing interface built utilizing Next.js, Tailwind CSS architecture, and real-time cloud spreadsheet asset tracking arrays.
 
-First, run the development server:
+##  Live Production Deployment
+* **Live Website URL:** [https://vercel.com/vv-projects1/gnn-logistics/FfuYjgGNRRXQgg9AJ8DCaoNM8kPa]
+* **Data Core Hub:** [https://docs.google.com/spreadsheets/d/1cDooVzCyALJRo8Qf9vb5LDHamLRyAN1grUtYH9uXq-o/edit?usp=sharing]
+
+##  System Capabilities & Deliverables
+- **High-End Dark Architecture:** A premium monochrome layout optimized for modern logistics dispatch control centers.
+- **Dynamic 8-Card KPI Matrix:** Fully automated responsive grid tracking vital real-time supply chain operational metrics.
+- **Strict Client-Side Validation:** Validates form structures against international phone parameters and email tracking metrics.
+- **Live Cloud Database Integration:** Zero-infrastructure tracking pipeline that routes procurement data into Google Sheets in real-time.
+- **Flawless Responsive Scalability:** Tailored fluid UI scaling layout across mobile, tablet, and desktop viewports.
+
+##  Local Workspace Setup Instructions
+
+To execute this architecture inside a local sandbox environment, run the following command protocols:
+
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone [https://github.com/itztime-tocode/gnn-logistics]
+cd gnn-project
