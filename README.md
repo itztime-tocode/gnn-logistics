@@ -3,7 +3,7 @@
 An enterprise-grade, high-capacity logistical management landing interface built utilizing Next.js, Tailwind CSS architecture, and real-time cloud spreadsheet asset tracking arrays.
 
 ##  Live Production Deployment
-* **Live Website URL:** [https://vercel.com/vv-projects1/gnn-logistics/FfuYjgGNRRXQgg9AJ8DCaoNM8kPa]
+* **Live Website URL:** [https://gnn-logistics-381togymj-vv-projects1.vercel.app/]
 * **Data Core Hub:** [https://docs.google.com/spreadsheets/d/1cDooVzCyALJRo8Qf9vb5LDHamLRyAN1grUtYH9uXq-o/edit?usp=sharing]
 
 ##  System Capabilities & Deliverables
